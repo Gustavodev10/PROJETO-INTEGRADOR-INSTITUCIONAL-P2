@@ -16,3 +16,10 @@ Nosso projeto foi desenvolvido com as seguintes tecnologias:
 
 O site foi construido para atender as necessidades propostas pelos cursos de Direito, Pegadogia e Psicologia com um quiz e para Odontologia um jogo de cartas interativo onde o usuário tem a possibilidade de escolher os níveis de jogo.
 - [Acesse o site finalizado, online](https://gustavodev10.github.io/PROJETO-INTEGRADOR-INSTITUCIONAL-P2/)
+<br>
+<p  align="center"![Uploading qr-code.png…]()
+  
+>QRCode</p>
+<p align="center"> 
+  <img alt="QRCode" src="file:///C:/Users/Gustavo/Downloads/qr-code.png" width="30%">
+</p>
