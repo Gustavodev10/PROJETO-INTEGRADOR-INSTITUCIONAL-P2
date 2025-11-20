@@ -14,7 +14,7 @@ Nosso projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site foi construido para atender as necessidades propostas pelos cursos de Direito, Pegadogia e Psicologia com um quiz e para Odontologia um jogo de cartas interativo onde o usuário tem a possibilidade de escolher os níveis de jogo.
+O site foi construído para atender às necessidades dos cursos de Direito, Pedagogia e Psicologia, trazendo um conteúdo explicativo sobre cyberbullying com um chat scriptado para educar os usuários sobre o tema.
 - [Acesse o site finalizado, online](https://gustavodev10.github.io/PROJETO-INTEGRADOR-INSTITUCIONAL-P2/)
 <br>
 <p  align="center"![Uploading qr-code.png…]()
