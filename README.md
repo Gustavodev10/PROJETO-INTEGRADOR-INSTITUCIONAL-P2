@@ -21,5 +21,6 @@ O site foi construido para atender as necessidades propostas pelos cursos de Dir
   
 >QRCode</p>
 <p align="center"> 
-  <img alt="QRCode" src="file:///C:/Users/Gustavo/Downloads/qr-code.png" width="30%">
+  <img width="256" height="256" alt="qr-code" src="https://github.com/user-attachments/assets/2ac33845-44ba-4c59-bfc7-0e5e64db694b"
 </p>
+![Uploading qr-code.png…]()
